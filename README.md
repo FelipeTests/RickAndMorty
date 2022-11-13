@@ -24,4 +24,4 @@ yarn test
 
 You can also check the project deployed in vercel here
 
-https://rick-and-morty-hazel-phi.vercel.app/app
+https://rick-and-morty-hazel-phi.vercel.app
